@@ -13,4 +13,4 @@ HackerOne 플랫폼을 통해 실제 기업(정책상 비공개)의 Bug Bounty �
 ## 🔧 기술 스택
 Burp Suite, Kali Linux, Chrome DevTools
 
-📄 [프로젝트 자료 (PDF)](./docs/버그바운티.pdf)
+📄 [프로젝트 자료 (PDF)](./docs/버그바운티%20실전형%20모의해킹.pdf)
