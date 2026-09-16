@@ -1,6 +1,6 @@
 # CI/CD 공급망 침해 영향도 분석 및 AWS 자산 추적 플랫폼
 
-GitHub Actions 공급망 공격(2025년 tj-actions 사건 등)과 CI/CD 파이프라인을 통한 AWS 자격증명 탈취 사고를 계기로, 
+GitHub Actions 공급망 공격과 CI/CD 파이프라인을 통한 AWS 자격증명 탈취 사고를 계기로, 
 CI/CD 이벤트부터 AWS 내 실제 피해 자산까지 침해 경로를 연결·추적하는 통합 위협 추적 플랫폼입니다.
 
 ## 👤 담당 역할 (Cloud·DevOps Engineer)
