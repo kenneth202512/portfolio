@@ -21,7 +21,7 @@
 - 역할 : AWS 아키텍처 설계, 인프라 구축, GitHub Actions Workflow 구축, PPT 보조
 - 기술 스택 : GitHub Actions, API Gateway, Lambda, SQS, EC2, CloudTrail, S3, Cognito, Python, boto3
 
-### 3. A사 버그바운티
+### 3. 버그바운티 실전형 모의해킹
 - [프로젝트 폴더로 이동](./project-3)
 - 역할 : Scope assets 파악, 취약점 유형 조사·분석, 로직 흐름 및 파라미터 분석, 보고서 작성, 발표
 - 기술 스택 : Burp Suite, Kali Linux, Chrome DevTools
