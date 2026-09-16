@@ -11,7 +11,7 @@
 
 ## 📁 Projects
 
-### 1. Git Hook 기반 DevSecOps 보안 게이트웨이
+### 1. Git Hook 기반 클라우드 DevSecOps 보안 게이트웨이
 - [프로젝트 폴더로 이동](./project-1)
 - 역할 : (팀장) Git Hook 자동화 프레임워크 설계, 사용자 로컬 환경 연동 및 설치 스크립트 최적화, 최종 시스템 통합 및 발표
 - 기술 스택 : Python, GitHub, Trivy, checkov, gitleaks, Bandit, pipaudit, piplicenses
