@@ -2,10 +2,12 @@
 
 'AI를 활용한 클라우드 보안 엔지니어(화이트해커) 양성' 과정에서 진행한 프로젝트를 정리한 포트폴리오입니다.
 
+
 ## 🙋 About Me
 - AI를 활용한 클라우드 보안 엔지니어(화이트해커) 양성 과정 수료
 - 보유 기술: Linux, Network, Docker/Kubernetes, AWS, Splunk, Python, GitHub, VMware, 모의해킹, 정보보안
 - 보유 자격증: 리눅스마스터 2급, 네트워크관리사 2급, AWS Certified Solutions Architect - Associate (SAA-C03)
+
 
 ## 📁 Projects
 
