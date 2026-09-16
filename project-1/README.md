@@ -12,4 +12,4 @@ Secret 유출·취약점·라이선스 문제를 사전 차단하는 Git Hook �
 ## 🔧 기술 스택
 Python, GitHub, Trivy, checkov, gitleaks, Bandit, pipaudit, piplicenses
 
-📄 [프로젝트 자료 (PDF)](./docs/Git Hook 기반 클라우드 DevSecOps 보안 게이트웨이.pdf)
+📄 [프로젝트 자료 (PDF)](./docs/Git%20Hook%20기반%20클라우드%20DevSecOps%20보안%20게이트웨이.pdf)
